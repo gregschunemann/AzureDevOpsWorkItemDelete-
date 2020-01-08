@@ -1,0 +1,15 @@
+C:\Users\grschune\source\repos\ADOWorkItemDelete\ADOWorkItemDelete\bin\Debug\netcoreapp3.1\ADOWorkItemDelete.exe
+C:\Users\grschune\source\repos\ADOWorkItemDelete\ADOWorkItemDelete\bin\Debug\netcoreapp3.1\ADOWorkItemDelete.deps.json
+C:\Users\grschune\source\repos\ADOWorkItemDelete\ADOWorkItemDelete\bin\Debug\netcoreapp3.1\ADOWorkItemDelete.runtimeconfig.json
+C:\Users\grschune\source\repos\ADOWorkItemDelete\ADOWorkItemDelete\bin\Debug\netcoreapp3.1\ADOWorkItemDelete.runtimeconfig.dev.json
+C:\Users\grschune\source\repos\ADOWorkItemDelete\ADOWorkItemDelete\bin\Debug\netcoreapp3.1\ADOWorkItemDelete.dll
+C:\Users\grschune\source\repos\ADOWorkItemDelete\ADOWorkItemDelete\bin\Debug\netcoreapp3.1\ADOWorkItemDelete.pdb
+C:\Users\grschune\source\repos\ADOWorkItemDelete\ADOWorkItemDelete\bin\Debug\netcoreapp3.1\Flurl.dll
+C:\Users\grschune\source\repos\ADOWorkItemDelete\ADOWorkItemDelete\bin\Debug\netcoreapp3.1\Flurl.Http.dll
+C:\Users\grschune\source\repos\ADOWorkItemDelete\ADOWorkItemDelete\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\grschune\source\repos\ADOWorkItemDelete\ADOWorkItemDelete\obj\Debug\netcoreapp3.1\ADOWorkItemDelete.csprojAssemblyReference.cache
+C:\Users\grschune\source\repos\ADOWorkItemDelete\ADOWorkItemDelete\obj\Debug\netcoreapp3.1\ADOWorkItemDelete.AssemblyInfoInputs.cache
+C:\Users\grschune\source\repos\ADOWorkItemDelete\ADOWorkItemDelete\obj\Debug\netcoreapp3.1\ADOWorkItemDelete.AssemblyInfo.cs
+C:\Users\grschune\source\repos\ADOWorkItemDelete\ADOWorkItemDelete\obj\Debug\netcoreapp3.1\ADOWorkItemDelete.csproj.CopyComplete
+C:\Users\grschune\source\repos\ADOWorkItemDelete\ADOWorkItemDelete\obj\Debug\netcoreapp3.1\ADOWorkItemDelete.dll
+C:\Users\grschune\source\repos\ADOWorkItemDelete\ADOWorkItemDelete\obj\Debug\netcoreapp3.1\ADOWorkItemDelete.pdb

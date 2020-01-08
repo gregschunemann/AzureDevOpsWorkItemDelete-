@@ -1,0 +1,6 @@
+.vs/ADOWorkItemDelete
+bin/*
+obj/*
+/ADOWorkItemDelete/obj/Debug/netcoreapp3.1/ADOWorkItemDelete.AssemblyInfoInputs.cache
+/ADOWorkItemDelete/obj/Debug/netcoreapp3.1/ADOWorkItemDelete.csprojAssemblyReference.cache
+/ADOWorkItemDelete/obj/Debug/netcoreapp3.1/ADOWorkItemDelete.AssemblyInfo.cs
